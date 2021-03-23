@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^8.22",
+        "doctrine/dbal": "^3.0"
+    }
+}
